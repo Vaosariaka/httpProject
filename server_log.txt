@@ -1,0 +1,38 @@
+déc. 04, 2024 3:08:26 PM HttpServer main
+INFOS: Serveur HTTP démarré sur http://localhost:8080
+déc. 04, 2024 3:08:39 PM HttpServer handleClientRequest
+INFOS: Requête reçue : GET / HTTP/1.1
+déc. 04, 2024 3:08:39 PM HttpServer getOrCreateSession
+INFOS: Nouvelle session créée : 7d423e37-08c3-4a33-a6a9-1940b3f0f9a9
+déc. 04, 2024 3:08:40 PM HttpServer handleClientRequest
+INFOS: Requête reçue : GET / HTTP/1.1
+déc. 04, 2024 3:08:40 PM HttpServer getOrCreateSession
+INFOS: Nouvelle session créée : 2b263129-c4ab-458e-ad84-acc3db8edc6d
+déc. 04, 2024 3:08:44 PM HttpServer handleClientRequest
+INFOS: Requête reçue : GET / HTTP/1.1
+déc. 04, 2024 3:08:44 PM HttpServer getOrCreateSession
+INFOS: Nouvelle session créée : 7adc2d1d-cec4-444e-b23e-57606cded967
+déc. 04, 2024 3:08:49 PM HttpServer handleClientRequest
+INFOS: Requête reçue : GET / HTTP/1.1
+déc. 04, 2024 3:08:49 PM HttpServer getOrCreateSession
+INFOS: Nouvelle session créée : 8b4b9846-2295-4e5a-ab9b-ffa84b9a83af
+déc. 04, 2024 3:08:54 PM HttpServer handleClientRequest
+INFOS: Requête reçue : GET /site HTTP/1.1
+déc. 04, 2024 3:08:54 PM HttpServer getOrCreateSession
+INFOS: Nouvelle session créée : a08146e4-9f17-4df8-8e0f-3df1f77d1187
+déc. 04, 2024 3:08:55 PM HttpServer handleClientRequest
+INFOS: Requête reçue : GET /site HTTP/1.1
+déc. 04, 2024 3:08:55 PM HttpServer getOrCreateSession
+INFOS: Nouvelle session créée : a999f0cc-dd43-4c53-9f66-abe5f28dbc58
+déc. 04, 2024 3:08:58 PM HttpServer handleClientRequest
+INFOS: Requête reçue : GET / HTTP/1.1
+déc. 04, 2024 3:08:58 PM HttpServer getOrCreateSession
+INFOS: Nouvelle session créée : daf26bf9-c8a5-42c7-9173-649eb96dec8e
+déc. 04, 2024 3:08:59 PM HttpServer handleClientRequest
+INFOS: Requête reçue : GET / HTTP/1.1
+déc. 04, 2024 3:08:59 PM HttpServer getOrCreateSession
+INFOS: Nouvelle session créée : b25465df-7ace-4a24-b7bb-6fdba501a9f7
+déc. 04, 2024 3:09:04 PM HttpServer handleClientRequest
+INFOS: Requête reçue : GET / HTTP/1.1
+déc. 04, 2024 3:09:04 PM HttpServer getOrCreateSession
+INFOS: Nouvelle session créée : ef9750d8-df90-4c8c-833f-9e432285df92

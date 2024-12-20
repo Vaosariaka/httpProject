@@ -1,0 +1,6 @@
+curl -X PUT --data "hello" http://localhost:8081/newfile.txt
+cat /chemin/vers/ton/repertoire/rootDirectory/newfile.txt
+curl -X DELETE http://localhost:8000/test.txt
+
+php nom.php
+php -S localhost:8081
